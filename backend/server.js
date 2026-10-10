@@ -26,12 +26,6 @@ app.use(
 // MYSQL CONNECTION
 // ==========================================
 
-const db = mysql.createConnection({
-
-    host: "localhost",
-
-    user: "root",
-
     password: "sriii1211",
 
     database: "restaurant_db"
